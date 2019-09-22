@@ -3,7 +3,11 @@ Addition Required Hardware (***mix of units is due to stock from left over proje
 2. (3) M3x16 machine screws
 3. (1) 1/4" x 7/8" spring
 <<<<<<< HEAD
+<<<<<<< HEAD
 4. (1) Rubber Rubberband
+=======
+4. A Length of string ( I used some kite string I had in my scrap box )
+>>>>>>> master
 =======
 4. A Length of string ( I used some kite string I had in my scrap box )
 >>>>>>> master
