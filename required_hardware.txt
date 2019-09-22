@@ -5,12 +5,6 @@ Addition Required Hardware (***mix of units is due to stock from left over proje
 <<<<<<< HEAD
 <<<<<<< HEAD
 4. (1) Rubber Rubberband
-=======
-4. A Length of string ( I used some kite string I had in my scrap box )
->>>>>>> master
-=======
-4. A Length of string ( I used some kite string I had in my scrap box )
->>>>>>> master
 
 Tools Recommended:
 0. 3D Printer
