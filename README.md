@@ -13,7 +13,7 @@ Rules of using this work source material
 # Spirit of Design
 The S.o.D of this project is to make something fun, and not necessarily useful. The reason it has a thumb trigger instead of a traditional finger trigger is because it looks more silly and more like a toy. It is requested but not required any spin offs keep in line of make a fun child's toy instead of a super serious crossbow.
 
-#TODO
+# TODO
 * Issue printing 0.18mm gcode. Looking into reasons
 * Work on designs for printing max number of rails per print bed
 * Work on design of a unit without need to cut the rubberband 
